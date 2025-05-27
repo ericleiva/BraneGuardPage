@@ -6,7 +6,7 @@ layout: home
 ---
 
 <h1 style="text-align: center;">
-Lock apps taking too much of your time
+Use social media in moderation
 </h1>
 <p style="text-align: center;">
     <img src="{{ '/assets/images/device.png' | relative_url }}" alt="App screenshot" width="300">
